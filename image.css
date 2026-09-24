@@ -1,4 +1,8 @@
+*, *::before, *::after{box-sizing: border-box;}
 .c{
-    position: sticky;
-    gap:calc(2px);
+    padding:2px;
+    background-color:aliceblue;
+    border:none;
+    width:10px;
+
 }
