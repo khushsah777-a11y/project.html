@@ -1,3 +1,5 @@
-h1{
- letter-spacing : 4px;
+card{
+    border: 2px;
+border-collapse: 5px;
+border-radius: 3px;
 }
