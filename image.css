@@ -1,4 +1,6 @@
-p{
-    position: sticky;
-    justify-content: space-between;
+.faded-card{background-color: white;
+    border-collapse: 2px;
+    position:fixed;
+    opacity:0.6;
+
 }

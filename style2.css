@@ -1,4 +1,4 @@
-p{
-   position:fixed;
-   gap:inherit
+.clickablebutton{
+   position: sticky;
+   cursor:not-allowed;
 }
