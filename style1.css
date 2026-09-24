@@ -1,3 +1,4 @@
 h1{
     position: inherit;
+    flex-direction: row-reverse;
 }

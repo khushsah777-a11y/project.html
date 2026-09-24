@@ -1,5 +1,5 @@
-card{
-    border: 2px;
-border-collapse: 5px;
-border-radius: 3px;
+body{
+    width: 100px;
+    height: 200px;
+    overflow: scroll;
 }
