@@ -3,18 +3,18 @@
     padding:2px;
     background-color:aliceblue;
     border:5px;
-    border-collapse: 10px;
+    border-collapse: collpase;
     width:60px;
     height:50px;
 
 }
-table{
+table,th{
     *, *::before, *::after{box-sizing: border-box;}
 .c{
     padding:2px;
     background-color:aliceblue;
     border:5px;
-    border-collapse: 10px;
+    border-collapse: collapse;
     width:60px;
     height:50px;
 
