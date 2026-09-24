@@ -1,6 +1,4 @@
-.faded-card{background-color: white;
-    border-collapse: 2px;
-    position:fixed;
-    opacity:0.6;
-
+.c{
+    position: sticky;
+    gap:calc(2px);
 }
