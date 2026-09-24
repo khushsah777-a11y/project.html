@@ -9,8 +9,8 @@
 
 }
 table,th{
-    *, *::before, *::after{box-sizing: border-box;}
-.c{
+
+
     padding:2px;
     background-color:aliceblue;
     border:5px;
@@ -18,5 +18,4 @@ table,th{
     width:60px;
     height:50px;
 
-}
 }
